@@ -10,4 +10,5 @@ I have started the VNC service which seems to be perpetual systctl (service)
 PW- 123456
 Port- 5901
 You will need to load the vnc viewer application (google chrome) in order to access the remote desktop service.
+I created another server (seocndary) as a unbuntu 14 flavor for PKMGT testing; the credentials are as set above
 ***************************************************************
