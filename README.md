@@ -1,2 +1,2 @@
 # Hacker_Lessons
-Repository for hacking projects/lessons
+Repository for hacking projects/lessons, and development ideas
